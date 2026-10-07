@@ -6,8 +6,8 @@ Some scripts, functions and filenames use **QPH** (quantum potential hypervolume
 
 ## Files and inputs
 
-- `Scripts: R code for the analyses.
-- `Data: base RDS input archives for the synthetic, virtual-species and empirical Acacia analyses.
+- Scripts: R code for the analyses.
+- Data: base RDS input archives for the synthetic, virtual-species and empirical Acacia analyses.
 
 Synthetic niche definitions and dataset construction are described in the manuscript and Supplementary Materials. The scripts read the supplied base RDS archives rather than recreating the original datasets. Script 11 generates its own dimensionality-test datasets.
 
